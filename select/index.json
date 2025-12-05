@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "If I Could Draw Life",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-05T13:48:38.776750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Could Draw Life",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_If_I_Could_Draw_Life_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Could Draw Life",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_If_I_Could_Draw_Life_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I could draw life もしも命が描けたら",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_If_I_could_draw_life_もしも命が描けたら_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If I Could Draw Life",
+      "artist": "YOASOBI / Midories",
+      "has_synced": true,
+      "path": "select/04_If_I_Could_Draw_Life_YOASOBI___Midories.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もしも命が描けたら (If I Could Draw Life)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_もしも命が描けたら_(If_I_Could_Draw_Life)_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If I Could Draw Life",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_If_I_Could_Draw_Life_YOASOBI.txt"
+    }
+  ]
+}
